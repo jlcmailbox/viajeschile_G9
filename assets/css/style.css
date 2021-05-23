@@ -1,5 +1,10 @@
-header {
-    background-image: url(../img/chile-andes_cd932201_1200x800.jpg);
+.container {
+    background-color: yellowgreen;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.sr-only{
+    color: white;
+    font-weight: bold;
 }
