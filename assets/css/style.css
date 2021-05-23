@@ -1,10 +1,21 @@
-.container {
-    background-color: yellowgreen;
+.header {
+    background-color: transparent;
     background-repeat: no-repeat;
     background-size: cover;
+    background: transparent;
 }
 
 .sr-only{
     color: white;
     font-weight: bold;
+}
+
+hr {
+    height: 2px;
+    background:rgb(23, 163, 184);
+  }
+
+.blueboxes {
+    background:rgb(23, 163, 184);
+    padding: 4px;
 }
